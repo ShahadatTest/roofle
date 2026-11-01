@@ -18,7 +18,7 @@ Roofle writes live notes and surfaces the right follow-up question while you're 
 
 ### ⭐ If Roofle is useful, [star this repo](https://github.com/roofle-ai/roofle). It takes two seconds and it's the only way we get noticed. ⭐
 
-<img src="docs/product-demo.gif" alt="Roofle in action" width="640" />
+<video src="docs/roofle-demo.mp4" controls muted autoplay loop playsinline width="640"></video>
 
 </div>
 
