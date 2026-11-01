@@ -18,7 +18,7 @@ Roofle writes live notes and surfaces the right follow-up question while you're 
 
 ### ⭐ If Roofle is useful, [star this repo](https://github.com/roofle-ai/roofle). It takes two seconds and it's the only way we get noticed. ⭐
 
-<video src="https://github.com/user-attachments/assets/2dc4e08f-2589-4bad-988f-a7917d11e5af" controls muted autoplay loop playsinline width="640"></video>
+https://github.com/user-attachments/assets/2dc4e08f-2589-4bad-988f-a7917d11e5af
 
 </div>
 
