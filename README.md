@@ -1,19 +1,24 @@
 <div align="center">
 
-<img src="assets/roofle-app-icon-1024.png" alt="Roofle" width="120" />
-
-# Roofle
-
-**The private AI meeting notetaker. No bot, no cloud audio, no subscription.**
-
-Live notes that write themselves, and the right question at the right moment, all from a menu-bar icon nobody else can see.
+<img src="assets/roofle-app-icon-1024.png" alt="Roofle" width="40" />
 
 [![Release](https://img.shields.io/github/v/release/roofle-ai/roofle?include_prereleases&style=flat-square)](https://github.com/roofle-ai/roofle/releases)
 [![Stars](https://img.shields.io/github/stars/roofle-ai/roofle?style=flat-square&logo=github)](https://github.com/roofle-ai/roofle/stargazers)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 ![macOS](https://img.shields.io/badge/macOS-13%2B%20%C2%B7%20Apple%20Silicon-black?style=flat-square&logo=apple)
 
+# Roofle
+
+**Granola without the cloud. The open-source meeting copilot that runs 100% on your Mac.**
+
+No bot joins your call. No audio or notes leave your machine. No subscription.
+Roofle writes live notes and surfaces the right follow-up question while you're still talking.
+
+
+
 ### ⭐ If Roofle is useful, [star this repo](https://github.com/roofle-ai/roofle). It takes two seconds and it's the only way we get noticed. ⭐
+
+<img src="docs/product-demo.gif" alt="Roofle in action" width="640" />
 
 </div>
 
